@@ -1,5 +1,6 @@
-# Semhle Theme
+Semhle Theme
 ==============
+
 
 Baobab LIMS - Plone Diazo Theme
  
